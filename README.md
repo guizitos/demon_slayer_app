@@ -87,6 +87,11 @@ lib/
 
 ---
 
+## Demonstração
+
+Você pode assistir a uma demonstração do aplicativo no YouTube:  
+[Link do vídeo](https://youtu.be/k8nqJ3JRpME)
+
 ## Dependências
 
 - `flutter` >=3.x  
