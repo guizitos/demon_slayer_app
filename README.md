@@ -27,17 +27,29 @@ Este projeto é um aplicativo Flutter que lista personagens do anime **Demon Sla
 ## Estrutura do Projeto
 
 lib/
+
 ├── main.dart # Arquivo principal que inicia o app e configura os provedores
+
 ├── provedores/
+
 │ ├── personagens_provedor.dart # Gerencia o estado da lista de personagens
+
 │ └── tema_provedor.dart # Gerencia o estado do tema do aplicativo
+
 ├── servicos/
+
 │ └── personagens_repositorio.dart # Responsável por buscar os dados dos personagens
+
 ├── telas/
+
 │ ├── splash_tela.dart # Tela inicial de splash
+
 │ └── lista_personagens_tela.dart # Tela principal com a lista de personagens
+
 ├── widgets/
+
 │ ├── item_lista_personagem.dart # Widget individual de cada personagem
+
 │ └── erro_view.dart # Widget para exibir erros
 
 
