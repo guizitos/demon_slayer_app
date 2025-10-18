@@ -99,3 +99,6 @@ dependencies:
   flutter:
     sdk: flutter
   provider: ^6.0.5
+  cupertino_icons: ^1.0.8
+  http: ^0.13.6
+  cached_network_image: ^3.2.3
