@@ -90,7 +90,7 @@ lib/
 ## Demonstração
 
 Você pode assistir a uma demonstração do aplicativo no YouTube:  
-[Link do vídeo](https://youtu.be/RVwfNfcpHrs?si=sdEXJ_a6RTL2qCAM)
+[Link do vídeo](https://youtu.be/k8nqJ3JRpME)
 
 ## Dependências
 
